@@ -1,0 +1,1 @@
+ C:\\Users\\lalaa\\OneDrive\\Desktop\\tuts\\tuts\\flutter_project\\enviro_info\\.dart_tool\\flutter_build\\06cfc8c985001e6421563a4e8de7d8ac\\native_assets.yaml: 
